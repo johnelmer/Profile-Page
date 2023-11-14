@@ -1,3 +1,3 @@
 # Personal Website
 
-This repository was developed as a personal landing website for my portfolio of projects.
+This repository was developed as a personal landing website for my portfolio of projects. Updated 2023.
